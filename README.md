@@ -1,4 +1,4 @@
-# HikeLA
+# Hike LA
 - Hike LA is an Android app that displays a 2D web map of trails and parks in LA County using ArcGIS Online and ArcGIS Runtime SDK for Android.
 - The app supports geocoding to search for locations and display them on the map.
 - The app uses a mobile map package to consume data without network connection.
