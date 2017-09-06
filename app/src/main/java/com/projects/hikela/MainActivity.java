@@ -215,7 +215,7 @@ public class MainActivity extends AppCompatActivity {
 
     //  Create a map object from a web map given its URL
     private void showWebMap() {
-        String itemId = "5c3b90e2f3de4c8fae0b4c711104bcb1";
+        String itemId = "791438ba2e514e6ebd36535880727293";
         String url = "https://www.arcgis.com/sharing/rest/content/items/" + itemId + "/data";
         ArcGISMap map = new ArcGISMap(url);
         mMapView.setMap(map);
